@@ -1,0 +1,10 @@
+version: "3.8"
+
+services:
+  frontend:
+    container_name: chatse-fe
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "6911:80"
