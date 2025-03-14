@@ -12,6 +12,9 @@ There's 1 page in frontend
 ## Requirement
 * docker
 
+## DEMO Video
+https://github.com/user-attachments/assets/09ff3650-2aa6-48c7-bf85-859b612c4850
+
 ## Database
 
 1. go to database folder
